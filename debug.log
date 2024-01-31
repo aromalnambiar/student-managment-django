@@ -1,0 +1,1788 @@
+INFO 2024-01-30 19:30:41,938 Watching for file changes with StatReloader
+INFO 2024-01-30 19:30:50,077 Watching for file changes with StatReloader
+INFO 2024-01-30 19:30:54,563 "GET / HTTP/1.1" 302 0
+INFO 2024-01-30 19:30:54,674 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-30 19:30:54,937 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-30 19:30:54,943 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-01-30 19:30:54,958 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-30 19:30:54,963 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-30 19:30:54,983 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-30 19:30:54,998 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-01-30 19:30:55,013 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-01-30 19:30:55,015 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-01-30 19:30:55,020 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+WARNING 2024-01-30 19:30:55,603 Not Found: /favicon.ico
+INFO 2024-01-30 19:31:09,303 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:31:09,560 "GET / HTTP/1.1" 200 9298
+INFO 2024-01-30 19:31:09,881 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-30 19:31:09,926 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-30 19:31:10,092 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-01-30 19:31:12,572 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-01-30 19:31:15,186 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2024-01-30 19:31:20,937 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-01-30 19:31:23,442 "GET /staff/create/ HTTP/1.1" 200 12608
+INFO 2024-01-30 19:31:37,094 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2024-01-30 19:31:43,965 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10853
+INFO 2024-01-30 19:31:46,520 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-01-30 19:31:48,021 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-01-30 19:31:49,828 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-01-30 19:31:51,053 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2024-01-30 19:31:56,243 "GET /finance/1/detail/ HTTP/1.1" 200 11415
+INFO 2024-01-30 19:32:14,398 "GET /finance/1/detail/ HTTP/1.1" 200 11415
+INFO 2024-01-30 19:32:33,072 "GET /finance/1/delete/ HTTP/1.1" 200 9608
+INFO 2024-01-30 19:32:34,640 "POST /finance/1/delete/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:32:34,770 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-01-30 19:32:36,568 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-01-30 19:32:39,017 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2024-01-30 19:33:05,521 "POST /student/create/ HTTP/1.1" 200 13844
+INFO 2024-01-30 19:33:15,316 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:33:15,355 "GET /student/4/ HTTP/1.1" 200 11261
+INFO 2024-01-30 19:33:15,645 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-01-30 19:33:22,796 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-01-30 19:33:25,621 "GET /finance/create/ HTTP/1.1" 200 13735
+INFO 2024-01-30 19:34:24,666 "GET /term/list/ HTTP/1.1" 200 12239
+INFO 2024-01-30 19:34:29,779 "GET /class/list/ HTTP/1.1" 200 11979
+INFO 2024-01-30 19:34:34,394 "GET /session/list/ HTTP/1.1" 200 12292
+INFO 2024-01-30 19:34:38,121 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-01-30 19:34:40,034 "GET /finance/create/ HTTP/1.1" 200 13735
+INFO 2024-01-30 19:35:07,819 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:35:07,844 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-01-30 19:35:08,087 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-01-30 19:35:11,270 "GET /finance/receipt/create?invoice=2 HTTP/1.1" 200 10843
+INFO 2024-01-30 19:35:38,248 "GET /finance/2/detail/ HTTP/1.1" 200 10954
+INFO 2024-01-30 19:35:43,139 "GET /finance/2/update/ HTTP/1.1" 200 14586
+INFO 2024-01-30 19:35:51,251 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:35:51,303 "GET /finance/2/detail/ HTTP/1.1" 200 11063
+INFO 2024-01-30 19:35:58,781 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-01-30 19:36:00,536 "GET /finance/receipt/create?invoice=2 HTTP/1.1" 200 10843
+INFO 2024-01-30 19:36:07,722 "POST /finance/receipt/create?invoice=2 HTTP/1.1" 302 0
+INFO 2024-01-30 19:36:07,772 "GET /finance/list/ HTTP/1.1" 200 10352
+INFO 2024-01-30 19:36:10,146 "GET /finance/2/detail/ HTTP/1.1" 200 11170
+INFO 2024-01-30 19:36:20,012 "GET /finance/2/update/ HTTP/1.1" 200 16121
+INFO 2024-01-30 19:38:25,317 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:38:25,434 "GET /finance/2/detail/ HTTP/1.1" 200 11170
+WARNING 2024-01-30 19:38:25,992 Not Found: /favicon.ico
+INFO 2024-01-30 19:38:44,623 "GET /result/create/ HTTP/1.1" 200 11096
+INFO 2024-01-30 19:38:44,893 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-01-30 19:38:44,897 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-01-30 19:38:44,908 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-30 19:38:44,909 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+WARNING 2024-01-30 19:38:45,592 Not Found: /favicon.ico
+INFO 2024-01-30 19:38:49,071 "POST /result/create/ HTTP/1.1" 200 11146
+INFO 2024-01-30 19:38:54,352 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-01-30 19:38:54,539 "GET /result/edit-results/ HTTP/1.1" 200 12718
+WARNING 2024-01-30 19:38:55,255 Not Found: /favicon.ico
+INFO 2024-01-31 02:50:56,044 "GET /finance/list/ HTTP/1.1" 302 0
+INFO 2024-01-31 02:50:56,121 "GET /accounts/login/?next=/finance/list/ HTTP/1.1" 200 4002
+INFO 2024-01-31 02:50:56,374 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 02:50:56,378 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-01-31 02:50:56,384 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-01-31 02:50:56,386 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 02:50:56,390 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 02:50:56,394 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 02:51:01,932 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-31 02:51:01,978 "GET /finance/list/ HTTP/1.1" 200 10352
+INFO 2024-01-31 13:32:44,507 Watching for file changes with StatReloader
+INFO 2024-01-31 13:33:33,407 Watching for file changes with StatReloader
+INFO 2024-01-31 13:34:14,691 Watching for file changes with StatReloader
+INFO 2024-01-31 13:35:15,196 Watching for file changes with StatReloader
+INFO 2024-01-31 13:35:31,216 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 13:35:31,244 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-31 13:35:31,882 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:31,891 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:31,902 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:31,916 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:31,921 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:31,923 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:32,163 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-01-31 13:35:47,588 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-31 13:35:55,187 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2024-01-31 13:35:59,745 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:35:59,777 "GET / HTTP/1.1" 200 9298
+INFO 2024-01-31 13:36:00,000 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-01-31 13:36:02,806 "GET / HTTP/1.1" 200 9298
+INFO 2024-01-31 13:38:06,836 "GET / HTTP/1.1" 200 9298
+INFO 2024-01-31 13:38:09,674 "GET / HTTP/1.1" 200 9298
+INFO 2024-01-31 13:38:15,152 "GET / HTTP/1.1" 200 8499
+INFO 2024-01-31 13:38:18,949 "GET /site-config HTTP/1.1" 200 10074
+INFO 2024-01-31 13:39:25,449 "POST /site-config HTTP/1.1" 200 10137
+WARNING 2024-01-31 13:39:25,977 Not Found: /favicon.ico
+INFO 2024-01-31 13:39:30,367 "POST /site-config HTTP/1.1" 200 10137
+INFO 2024-01-31 13:39:33,650 "POST /site-config HTTP/1.1" 200 10137
+INFO 2024-01-31 13:39:48,232 "POST /site-config HTTP/1.1" 200 10119
+INFO 2024-01-31 13:39:50,966 "GET /student/list HTTP/1.1" 200 9155
+INFO 2024-01-31 13:39:56,119 "GET /site-config HTTP/1.1" 200 10074
+INFO 2024-01-31 13:40:05,178 "POST /site-config HTTP/1.1" 200 10085
+INFO 2024-01-31 13:40:17,083 "GET /student/list HTTP/1.1" 200 9155
+INFO 2024-01-31 13:40:23,914 "GET /finance/list/ HTTP/1.1" 200 9553
+INFO 2024-01-31 13:40:27,786 "GET /class/list/ HTTP/1.1" 200 11180
+INFO 2024-01-31 13:40:30,980 "GET /subject/list/ HTTP/1.1" 200 10891
+INFO 2024-01-31 13:40:34,978 "GET /session/list/ HTTP/1.1" 200 11493
+INFO 2024-01-31 13:40:41,846 "GET /session/1/delete/ HTTP/1.1" 200 9198
+INFO 2024-01-31 13:40:43,205 "POST /session/1/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:40:43,305 "GET /session/list/ HTTP/1.1" 200 11333
+INFO 2024-01-31 13:40:44,761 "GET /session/2/delete/ HTTP/1.1" 200 9198
+INFO 2024-01-31 13:40:45,868 "POST /session/2/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:40:45,924 "GET /session/list/ HTTP/1.1" 200 10990
+INFO 2024-01-31 13:40:55,187 "GET /session/3/delete/ HTTP/1.1" 200 9198
+INFO 2024-01-31 13:40:56,349 "POST /session/3/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:40:56,450 "GET /session/list/ HTTP/1.1" 200 10967
+INFO 2024-01-31 13:41:21,791 "GET /session/3/update/ HTTP/1.1" 200 9386
+INFO 2024-01-31 13:41:25,624 "POST /session/3/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:41:25,668 "GET /session/list/ HTTP/1.1" 200 10951
+INFO 2024-01-31 13:41:28,849 "GET /term/list/ HTTP/1.1" 200 11440
+INFO 2024-01-31 13:41:37,013 "GET /term/1/update/ HTTP/1.1" 200 9366
+INFO 2024-01-31 13:41:42,361 "POST /term/1/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:41:42,413 "GET /term/list/ HTTP/1.1" 200 11579
+INFO 2024-01-31 13:41:44,160 "GET /term/2/update/ HTTP/1.1" 200 9357
+INFO 2024-01-31 13:41:52,768 "POST /term/2/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:41:52,868 "GET /term/list/ HTTP/1.1" 200 11578
+INFO 2024-01-31 13:41:54,856 "GET /term/3/update/ HTTP/1.1" 200 9357
+INFO 2024-01-31 13:42:03,084 "POST /term/3/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:42:03,130 "GET /term/list/ HTTP/1.1" 200 11577
+INFO 2024-01-31 13:42:17,466 "POST /term/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:42:17,510 "GET /term/list/ HTTP/1.1" 200 11913
+INFO 2024-01-31 13:42:24,814 "POST /term/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:42:24,871 "GET /term/list/ HTTP/1.1" 200 12248
+INFO 2024-01-31 13:42:33,453 "POST /term/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:42:33,563 "GET /term/list/ HTTP/1.1" 200 12575
+INFO 2024-01-31 13:42:36,768 "GET /term/6/update/ HTTP/1.1" 200 9356
+INFO 2024-01-31 13:42:41,028 "POST /term/6/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:42:41,079 "GET /term/list/ HTTP/1.1" 200 12582
+INFO 2024-01-31 13:45:09,969 "GET /term/list/ HTTP/1.1" 200 12097
+INFO 2024-01-31 13:45:17,449 "GET /student/list HTTP/1.1" 200 8810
+INFO 2024-01-31 13:45:23,096 "GET /staff/list/ HTTP/1.1" 200 8551
+INFO 2024-01-31 13:45:24,852 "GET /student/list HTTP/1.1" 200 8810
+INFO 2024-01-31 13:45:41,033 "GET /site-config HTTP/1.1" 200 9729
+WARNING 2024-01-31 13:45:51,040 Not Found: /admin/
+WARNING 2024-01-31 13:45:51,041 "GET /admin/ HTTP/1.1" 404 6187
+INFO 2024-01-31 13:46:08,440 "GET /site-config HTTP/1.1" 200 9729
+INFO 2024-01-31 13:46:09,681 "GET /site-config HTTP/1.1" 200 9729
+INFO 2024-01-31 13:46:28,788 "POST /site-config HTTP/1.1" 200 9738
+INFO 2024-01-31 13:46:30,326 "GET /site-config HTTP/1.1" 200 9729
+INFO 2024-01-31 13:48:04,547 "GET /site-config HTTP/1.1" 200 9735
+INFO 2024-01-31 13:49:08,884 "GET /site-config HTTP/1.1" 200 9741
+INFO 2024-01-31 13:49:29,378 "GET /site-config HTTP/1.1" 200 9744
+INFO 2024-01-31 13:49:47,679 "GET /site-config HTTP/1.1" 200 9745
+INFO 2024-01-31 13:49:55,806 "GET /site-config HTTP/1.1" 200 9741
+INFO 2024-01-31 13:50:05,191 "GET /session/list/ HTTP/1.1" 200 10474
+INFO 2024-01-31 13:50:06,505 "GET /term/list/ HTTP/1.1" 200 12109
+INFO 2024-01-31 13:50:07,568 "GET /subject/list/ HTTP/1.1" 200 10558
+INFO 2024-01-31 13:50:16,510 "GET /class/list/ HTTP/1.1" 200 10847
+INFO 2024-01-31 13:50:33,088 "GET /class/list/ HTTP/1.1" 200 10583
+INFO 2024-01-31 13:50:38,955 "GET /class/4/delete/ HTTP/1.1" 200 8591
+INFO 2024-01-31 13:50:40,341 "POST /class/4/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:50:40,392 "GET /class/list/ HTTP/1.1" 200 10481
+INFO 2024-01-31 13:50:41,799 "GET /class/3/delete/ HTTP/1.1" 200 8601
+INFO 2024-01-31 13:50:42,955 "POST /class/3/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:50:43,003 "GET /class/list/ HTTP/1.1" 200 10203
+INFO 2024-01-31 13:50:45,290 "GET /class/1/delete/ HTTP/1.1" 200 8593
+INFO 2024-01-31 13:50:46,589 "POST /class/1/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:50:46,695 "GET /class/list/ HTTP/1.1" 200 9920
+INFO 2024-01-31 13:50:48,014 "GET /class/2/delete/ HTTP/1.1" 200 8593
+INFO 2024-01-31 13:50:49,285 "POST /class/2/delete/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:50:49,321 "GET /class/list/ HTTP/1.1" 200 9641
+INFO 2024-01-31 13:50:52,060 "GET /student/list HTTP/1.1" 200 8558
+INFO 2024-01-31 13:50:57,573 "GET /student/upload/ HTTP/1.1" 200 8613
+INFO 2024-01-31 13:51:01,060 "GET /student/create/ HTTP/1.1" 200 12152
+INFO 2024-01-31 13:51:11,186 "GET /staff/list/ HTTP/1.1" 200 8299
+INFO 2024-01-31 13:51:13,011 "GET /staff/create/ HTTP/1.1" 200 11212
+INFO 2024-01-31 13:51:19,652 "GET /finance/list/ HTTP/1.1" 200 8537
+INFO 2024-01-31 13:51:22,886 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:51:53,111 "GET /finance/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 13:51:53,225 "GET /accounts/login/?next=/finance/create/ HTTP/1.1" 200 4004
+INFO 2024-01-31 13:51:53,292 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:53:58,014 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:54:01,634 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2149167
+INFO 2024-01-31 13:54:02,054 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:54:04,587 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:54:09,151 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:54:09,365 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:54:09,372 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:54:09,385 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:54:09,387 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:54:09,388 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:54:09,393 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:54:09,403 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:54:09,681 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:54:10,090 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:54:10,098 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:54:10,100 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:54:10,101 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:54:10,109 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:54:10,121 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:54:10,128 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:54:10,129 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 13:54:10,133 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 13:54:10,137 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 13:54:10,140 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 13:54:10,141 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 13:54:10,150 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 13:54:10,785 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 13:54:10,789 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 13:54:11,477 Not Found: /favicon.ico
+WARNING 2024-01-31 13:54:11,478 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 13:54:12,734 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:55:47,111 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:55:47,401 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:55:47,409 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:55:47,414 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:55:47,416 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:55:47,424 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:55:47,436 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:55:47,441 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:55:47,448 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 13:55:47,450 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 13:55:47,456 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 13:55:47,458 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 13:55:47,462 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 13:55:47,473 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 13:55:47,731 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 13:55:47,734 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 13:55:48,491 Not Found: /favicon.ico
+WARNING 2024-01-31 13:55:48,492 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 13:55:50,554 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:56:10,676 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:56:11,152 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 13:56:13,914 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:56:13,991 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:56:14,022 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:56:14,037 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:56:14,289 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:56:14,298 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:56:14,303 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:56:14,306 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:56:14,307 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:56:14,309 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:56:14,316 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 13:56:14,317 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:56:14,321 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 13:56:14,324 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 13:56:14,327 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 13:56:14,332 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 13:56:14,347 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 13:56:14,659 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 13:56:14,666 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 13:56:15,324 Not Found: /favicon.ico
+WARNING 2024-01-31 13:56:15,325 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 13:56:17,042 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:56:49,323 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:56:49,461 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:56:49,464 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:56:49,469 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:56:49,475 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:56:49,485 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:56:49,496 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 13:56:49,496 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:56:49,498 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 13:56:49,506 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 13:56:49,510 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 13:56:49,513 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 13:56:49,517 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:56:49,536 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 13:56:49,718 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 13:56:49,720 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 13:56:50,251 Not Found: /favicon.ico
+WARNING 2024-01-31 13:56:50,251 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 13:56:51,654 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:58:23,399 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:58:23,549 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 13:58:25,511 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 13:58:49,216 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 13:58:49,903 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 13:58:49,906 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 13:58:49,913 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 13:58:49,918 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 13:58:49,921 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 13:58:49,928 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 13:58:49,940 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 13:58:49,945 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 13:58:49,946 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 13:58:49,948 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 13:58:49,955 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 13:58:49,961 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 13:58:49,975 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 13:58:50,443 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 13:58:50,447 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 13:59:05,298 Not Found: /favicon.ico
+WARNING 2024-01-31 13:59:05,298 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 13:59:46,317 "GET /finance/create/ HTTP/1.1" 200 12223
+INFO 2024-01-31 14:02:10,634 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:02:34,588 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 14:02:34,668 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-31 14:02:34,868 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-01-31 14:02:34,875 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:02:34,877 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:02:35,050 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:02:35,051 - Broken pipe from ('127.0.0.1', 56170)
+
+INFO 2024-01-31 14:02:41,862 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:02:41,891 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:02:42,013 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:02:51,136 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 14:02:51,229 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-31 14:02:51,335 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:03:05,218 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:03:05,297 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:03:05,302 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:03:05,303 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:03:05,306 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:03:05,310 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:03:05,316 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:03:05,322 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:03:05,331 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:03:05,342 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:03:05,346 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:03:05,349 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:03:05,354 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 14:03:05,361 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 14:03:05,804 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:03:05,807 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 14:03:06,778 Not Found: /favicon.ico
+WARNING 2024-01-31 14:03:06,779 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:03:06,935 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:04:34,081 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:04:34,139 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:04:34,155 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:04:34,158 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:04:34,162 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:04:34,174 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-01-31 14:04:34,176 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:04:34,181 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:04:34,190 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:04:34,184 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:04:34,187 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:04:34,188 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:04:34,182 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:04:34,204 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 14:04:34,384 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:04:34,387 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 14:04:34,834 Not Found: /favicon.ico
+WARNING 2024-01-31 14:04:34,834 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:04:35,690 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:03,668 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:08:03,972 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:08:03,977 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:08:04,008 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:08:04,012 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:08:04,017 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:08:04,026 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:08:04,029 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:08:04,032 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:08:04,035 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:08:04,041 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:08:04,042 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:08:04,047 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:08:04,068 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 14:08:04,418 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:08:04,420 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 14:08:05,224 Not Found: /favicon.ico
+WARNING 2024-01-31 14:08:05,225 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:08:07,511 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2148975
+INFO 2024-01-31 14:08:13,473 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:08:13,561 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:14,512 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:17,194 "GET /staff/list/ HTTP/1.1" 200 8409
+INFO 2024-01-31 14:08:17,278 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:18,316 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:18,881 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:08:19,030 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:08:20,028 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:33,356 "GET /class/list/ HTTP/1.1" 200 9574
+INFO 2024-01-31 14:09:33,466 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:34,316 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:42,999 "GET /term/list/ HTTP/1.1" 200 11955
+INFO 2024-01-31 14:09:43,084 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:43,969 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:44,293 "GET /session/list/ HTTP/1.1" 200 10320
+INFO 2024-01-31 14:09:45,324 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:45,465 "GET /class/list/ HTTP/1.1" 200 9574
+INFO 2024-01-31 14:09:46,342 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:48,998 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:09:49,956 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:09:50,712 "GET /student/create/ HTTP/1.1" 200 12262
+INFO 2024-01-31 14:09:51,808 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:35,248 "GET /finance/list/ HTTP/1.1" 200 8647
+INFO 2024-01-31 14:13:35,406 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:36,237 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:36,868 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:13:37,890 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:38,767 "GET /staff/list/ HTTP/1.1" 200 8409
+INFO 2024-01-31 14:13:39,713 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:40,505 "GET /staff/create/ HTTP/1.1" 200 11322
+INFO 2024-01-31 14:13:41,514 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:48,653 "GET /finance/list/ HTTP/1.1" 200 8647
+INFO 2024-01-31 14:13:49,668 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:13:53,994 "GET /finance/create/ HTTP/1.1" 200 12333
+INFO 2024-01-31 14:13:54,905 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:00,806 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:14:01,845 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:15,892 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:14:16,020 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:16,899 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:20,690 "GET /class/list/ HTTP/1.1" 200 9574
+INFO 2024-01-31 14:14:21,545 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:45,109 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:14:45,143 "GET /class/list/ HTTP/1.1" 200 10034
+INFO 2024-01-31 14:14:46,156 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:48,461 "GET /term/list/ HTTP/1.1" 200 11955
+INFO 2024-01-31 14:14:49,378 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:49,909 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:14:50,995 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:14:51,563 "GET /student/create/ HTTP/1.1" 200 12336
+INFO 2024-01-31 14:14:52,702 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:17:09,208 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:17:09,255 "GET /student/5/ HTTP/1.1" 200 10042
+INFO 2024-01-31 14:17:09,461 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:17:09,485 "GET /media/students/passports/christina-wocintechchat-com-50tkcap8m3a-unsplash.jpg HTTP/1.1" 200 205548
+INFO 2024-01-31 14:17:10,423 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:17:18,561 "GET /student/5/update/ HTTP/1.1" 200 12700
+INFO 2024-01-31 14:17:19,572 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:17:24,855 "POST /student/5/update/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:17:24,901 "GET /student/5/ HTTP/1.1" 200 10041
+INFO 2024-01-31 14:17:25,147 "GET /media/students/passports/christina-wocintechchat-com-50tkcap8m3a-unsplash.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 14:17:25,942 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:18:23,942 "GET /finance/list/ HTTP/1.1" 200 8647
+INFO 2024-01-31 14:18:24,024 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:18:24,957 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:18:25,709 "GET /finance/create/ HTTP/1.1" 200 12459
+INFO 2024-01-31 14:18:26,717 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:18:57,449 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:18:57,468 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-01-31 14:18:57,563 "GET /finance/list/ HTTP/1.1" 200 9072
+INFO 2024-01-31 14:18:58,410 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:19:07,589 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:19:08,511 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:19:14,252 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:19:15,075 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:19:35,658 "GET /student/create/ HTTP/1.1" 200 12336
+INFO 2024-01-31 14:19:35,741 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:19:36,545 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:42,288 "POST /student/create/ HTTP/1.1" 200 12506
+INFO 2024-01-31 14:20:43,257 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:46,386 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:20:46,420 "GET /student/6/ HTTP/1.1" 200 10030
+INFO 2024-01-31 14:20:46,591 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:46,605 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-01-31 14:20:47,582 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:54,180 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:20:55,137 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:56,480 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:20:57,282 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:20:57,749 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:20:58,743 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:21:57,010 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:21:58,079 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:21:58,953 "GET /student/create/ HTTP/1.1" 200 12336
+INFO 2024-01-31 14:22:00,057 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:23:00,229 "POST /student/create/ HTTP/1.1" 200 12505
+INFO 2024-01-31 14:23:00,297 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:23:01,168 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:23:05,895 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:23:05,944 "GET /student/7/ HTTP/1.1" 200 10034
+INFO 2024-01-31 14:23:06,918 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:23:17,499 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:23:18,422 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:23:25,507 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:23:25,554 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 14:23:25,612 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-01-31 14:23:26,551 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:24:51,104 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:24:51,243 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:24:51,986 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:26:12,824 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:26:13,551 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:26:14,817 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:26:14,908 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:26:14,909 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:26:14,909 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:26:14,914 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:26:14,922 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:26:14,923 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:26:14,925 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:26:14,926 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-01-31 14:26:14,930 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:26:14,934 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:26:14,935 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:26:14,936 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:26:15,111 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-01-31 14:26:15,178 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:26:15,265 Not Found: /favicon.ico
+WARNING 2024-01-31 14:26:15,268 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:26:15,619 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:27:40,155 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:27:40,226 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:27:40,232 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:27:40,240 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:27:40,243 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-01-31 14:27:40,245 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:27:40,246 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:27:40,246 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:27:40,251 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:27:40,249 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:27:40,247 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:27:40,254 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:27:40,256 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:27:40,352 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:27:40,462 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:27:40,539 Not Found: /favicon.ico
+WARNING 2024-01-31 14:27:40,540 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:27:41,012 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:28:35,731 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:28:35,832 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 14:28:36,447 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:30:43,527 "GET /accounts/login/?next=/ HTTP/1.1" 200 4070
+INFO 2024-01-31 14:30:43,604 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:30:43,614 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 14:30:44,414 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:32:39,872 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:32:39,943 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:32:39,945 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:32:39,949 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:32:39,954 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9063
+INFO 2024-01-31 14:32:39,958 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:32:39,960 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:32:39,966 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:32:39,967 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:32:39,971 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:32:39,973 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:32:39,975 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:32:39,976 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:32:40,177 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:32:40,206 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:32:40,280 Not Found: /favicon.ico
+WARNING 2024-01-31 14:32:40,281 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:32:40,693 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:05,417 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:05,474 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:33:05,491 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:33:05,508 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:33:05,509 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:33:05,513 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9080
+INFO 2024-01-31 14:33:05,519 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:33:05,520 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:33:05,521 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:33:05,521 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:33:05,525 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:33:05,525 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:33:05,531 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:33:05,613 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:33:05,714 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:33:05,809 Not Found: /favicon.ico
+WARNING 2024-01-31 14:33:05,811 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:33:06,179 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:13,068 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:13,135 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:33:13,141 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:33:13,150 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:33:13,151 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9080
+INFO 2024-01-31 14:33:13,153 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:33:13,155 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:33:13,158 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:33:13,165 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:33:13,165 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:33:13,169 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:33:13,171 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:33:13,175 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:33:13,281 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:33:13,416 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:33:13,518 Not Found: /favicon.ico
+WARNING 2024-01-31 14:33:13,519 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:33:13,947 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:24,072 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:24,150 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:33:24,151 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:33:24,154 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:33:24,162 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:33:24,170 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:33:24,176 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:24,178 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:33:24,182 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:33:24,183 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:33:24,185 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:33:24,188 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:33:24,190 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:33:24,259 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:33:24,400 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:33:24,488 Not Found: /favicon.ico
+WARNING 2024-01-31 14:33:24,491 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:33:24,892 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:29,316 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:29,395 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:30,211 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:32,749 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:32,826 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:33,420 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:36,314 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:36,380 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:37,005 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:41,091 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:41,190 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:41,813 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:33:45,694 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:33:45,777 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9100
+INFO 2024-01-31 14:33:46,413 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:36:11,814 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:36:11,898 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 14:36:11,903 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:36:11,905 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9102
+INFO 2024-01-31 14:36:12,654 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:40:27,221 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:40:27,454 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 14:40:27,458 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9102
+INFO 2024-01-31 14:40:27,462 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:40:28,763 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2148975
+INFO 2024-01-31 14:41:09,864 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:41:09,953 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:41:09,955 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:41:09,958 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:41:09,964 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 14:41:09,968 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:41:09,970 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:41:09,974 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:41:09,979 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:41:09,981 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:41:09,981 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:41:09,981 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:41:09,985 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:41:10,086 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 14:41:10,437 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 14:41:10,541 Not Found: /favicon.ico
+WARNING 2024-01-31 14:41:10,541 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:41:11,175 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:41:25,862 "GET /accounts/login/?next=/ HTTP/1.1" 200 4049
+INFO 2024-01-31 14:41:25,920 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 14:41:25,920 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:41:26,919 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:41:29,703 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-31 14:41:29,739 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 14:41:30,865 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:41:35,637 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:41:35,727 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:41:36,682 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:42:07,891 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:42:08,035 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:42:10,372 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2148975
+INFO 2024-01-31 14:42:23,894 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:42:23,958 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:42:23,970 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:42:23,970 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:42:23,971 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:42:23,979 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:42:23,989 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:42:23,990 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:42:23,994 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:42:24,004 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:42:24,007 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:42:24,013 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:42:24,014 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:42:24,015 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 14:42:24,186 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:42:24,188 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 14:42:24,864 Not Found: /favicon.ico
+WARNING 2024-01-31 14:42:24,865 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:42:25,804 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:42:34,618 "GET /finance/list/ HTTP/1.1" 200 9072
+INFO 2024-01-31 14:42:34,719 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:42:36,015 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:43:07,691 "GET /finance/list/ HTTP/1.1" 200 9071
+INFO 2024-01-31 14:43:07,761 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:43:08,832 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:45:57,459 "GET /finance/list/ HTTP/1.1" 200 9242
+INFO 2024-01-31 14:45:57,529 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 14:45:57,531 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 14:45:57,533 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 14:45:57,542 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 14:45:57,549 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 14:45:57,551 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 14:45:57,554 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 14:45:57,560 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 14:45:57,561 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 14:45:57,563 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 14:45:57,563 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 14:45:57,574 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 14:45:57,592 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 14:45:57,782 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 14:45:57,786 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+WARNING 2024-01-31 14:45:58,451 Not Found: /favicon.ico
+WARNING 2024-01-31 14:45:58,453 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 14:45:58,989 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:47:54,005 "GET /finance/list/ HTTP/1.1" 200 9251
+INFO 2024-01-31 14:47:54,089 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+WARNING 2024-01-31 14:47:54,815 Not Found: /favicon.ico
+INFO 2024-01-31 14:47:55,357 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:48:37,384 "GET /finance/list/ HTTP/1.1" 200 9270
+INFO 2024-01-31 14:48:37,449 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:48:38,573 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:48:46,927 "GET /finance/receipt/create?invoice=3 HTTP/1.1" 200 9604
+INFO 2024-01-31 14:48:48,116 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:48:51,202 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:48:52,238 "GET /finance/3/detail/ HTTP/1.1" 200 9830
+INFO 2024-01-31 14:48:53,339 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:49:03,705 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:56:46,346 "GET /staff/list/ HTTP/1.1" 200 8409
+INFO 2024-01-31 14:56:46,460 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 14:56:47,356 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 14:56:47,978 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 14:56:49,054 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:21:59,079 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-01-31 15:21:59,093 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 15:21:59,151 "GET /accounts/login/?next=/ HTTP/1.1" 200 4144
+INFO 2024-01-31 15:21:59,329 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 15:21:59,341 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:21:59,343 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:22:00,061 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:22:04,033 "GET /accounts/login/?next=/ HTTP/1.1" 200 4144
+INFO 2024-01-31 15:22:04,661 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:22:32,387 "GET /accounts/login/?next=/ HTTP/1.1" 200 37149
+WARNING 2024-01-31 15:22:32,494 Not Found: /accounts/login/img/carousel-1.jpg
+WARNING 2024-01-31 15:22:32,500 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:22:32,515 "GET /accounts/login/img/carousel-1.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:22:32,515 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:22:32,536 Not Found: /accounts/login/lib/owlcarousel/owl.carousel.min.js
+WARNING 2024-01-31 15:22:32,563 Not Found: /accounts/login/js/main.js
+WARNING 2024-01-31 15:22:32,573 "GET /accounts/login/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 404 7785
+WARNING 2024-01-31 15:22:32,573 Not Found: /accounts/login/img/team-1.jpg
+WARNING 2024-01-31 15:22:32,585 Not Found: /accounts/login/lib/waypoints/waypoints.min.js
+WARNING 2024-01-31 15:22:32,591 Not Found: /accounts/login/lib/easing/easing.min.js
+WARNING 2024-01-31 15:22:32,604 "GET /accounts/login/img/team-1.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:22:32,612 "GET /accounts/login/js/main.js HTTP/1.1" 404 7710
+WARNING 2024-01-31 15:22:32,612 "GET /accounts/login/lib/waypoints/waypoints.min.js HTTP/1.1" 404 7770
+WARNING 2024-01-31 15:22:32,612 "GET /accounts/login/lib/easing/easing.min.js HTTP/1.1" 404 7752
+WARNING 2024-01-31 15:22:32,615 Not Found: /accounts/login/lib/wow/wow.min.js
+WARNING 2024-01-31 15:22:32,627 Not Found: /accounts/login/img/team-2.jpg
+WARNING 2024-01-31 15:22:32,642 "GET /accounts/login/img/team-2.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:22:32,648 "GET /accounts/login/lib/wow/wow.min.js HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:22:32,655 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:22:32,659 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+WARNING 2024-01-31 15:22:32,671 Not Found: /accounts/login/img/team-3.jpg
+WARNING 2024-01-31 15:22:32,680 "GET /accounts/login/img/team-3.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:22:32,678 Not Found: /accounts/login/img/team-4.jpg
+WARNING 2024-01-31 15:22:32,681 "GET /accounts/login/img/team-4.jpg HTTP/1.1" 404 7722
+INFO 2024-01-31 15:22:32,711 "GET /static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 76612
+INFO 2024-01-31 15:22:33,622 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+WARNING 2024-01-31 15:22:36,180 Not Found: /accounts/login/lib/wow/wow.min.js
+WARNING 2024-01-31 15:22:36,180 "GET /accounts/login/lib/wow/wow.min.js HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:22:36,244 Not Found: /accounts/login/lib/easing/easing.min.js
+WARNING 2024-01-31 15:22:36,245 "GET /accounts/login/lib/easing/easing.min.js HTTP/1.1" 404 7752
+WARNING 2024-01-31 15:22:36,306 Not Found: /accounts/login/lib/waypoints/waypoints.min.js
+WARNING 2024-01-31 15:22:36,307 "GET /accounts/login/lib/waypoints/waypoints.min.js HTTP/1.1" 404 7770
+WARNING 2024-01-31 15:22:36,430 Not Found: /accounts/login/lib/owlcarousel/owl.carousel.min.js
+WARNING 2024-01-31 15:22:36,431 "GET /accounts/login/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 404 7785
+WARNING 2024-01-31 15:22:36,495 Not Found: /accounts/login/js/main.js
+WARNING 2024-01-31 15:22:36,495 "GET /accounts/login/js/main.js HTTP/1.1" 404 7710
+ERROR 2024-01-31 15:26:42,110 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loaders/base.py", line 29, in get_template
+    return Template(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/templatetags/static.py", line 159, in do_static
+    return StaticNode.handle_token(parser, token)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/templatetags/static.py", line 133, in handle_token
+    path = parser.compile_filter(bits[1])
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 563, in compile_filter
+    return FilterExpression(token, self)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 662, in __init__
+    raise TemplateSyntaxError("Could not parse the remainder: '%s' "
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: 's' from ''lnd/lib/owlcarousel/owl.carousel.min.j's'
+ERROR 2024-01-31 15:26:42,112 "GET /accounts/login/?next=/ HTTP/1.1" 500 162817
+WARNING 2024-01-31 15:26:42,288 Not Found: /favicon.ico
+WARNING 2024-01-31 15:26:42,289 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 15:28:57,132 "GET /accounts/login/?next=/ HTTP/1.1" 200 38221
+INFO 2024-01-31 15:28:57,227 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 15:28:57,231 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 15:28:57,238 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 15:28:57,240 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 15:28:57,242 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 15:28:57,245 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 200 16953
+INFO 2024-01-31 15:28:57,247 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2024-01-31 15:28:57,252 "GET /static/lnd/css/style.css HTTP/1.1" 200 7929
+INFO 2024-01-31 15:28:57,254 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 200 164194
+INFO 2024-01-31 15:28:57,264 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 15:28:57,264 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 15:28:57,266 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 15:28:57,277 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 15:28:57,281 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 15:28:57,290 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 15:28:57,306 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 15:28:57,314 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 200 8156
+INFO 2024-01-31 15:28:57,317 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 200 2302
+INFO 2024-01-31 15:28:57,323 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+INFO 2024-01-31 15:28:57,328 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2024-01-31 15:28:57,334 "GET /static/lnd/js/main.js HTTP/1.1" 200 2698
+INFO 2024-01-31 15:28:58,501 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:29:02,046 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 15:29:02,047 "GET /static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 76612
+WARNING 2024-01-31 15:29:02,107 Not Found: /accounts/login/img/team-3.jpg
+WARNING 2024-01-31 15:29:02,132 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:29:02,144 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:29:02,151 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:29:02,151 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+WARNING 2024-01-31 15:29:02,152 "GET /accounts/login/img/team-3.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:29:02,149 Not Found: /accounts/login/img/team-2.jpg
+WARNING 2024-01-31 15:29:02,164 Not Found: /accounts/login/img/team-4.jpg
+INFO 2024-01-31 15:29:02,167 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+WARNING 2024-01-31 15:29:02,184 "GET /accounts/login/img/team-2.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:29:02,187 "GET /accounts/login/img/team-4.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:29:02,195 Not Found: /accounts/login/img/team-1.jpg
+WARNING 2024-01-31 15:29:02,203 Not Found: /accounts/login/img/carousel-1.jpg
+WARNING 2024-01-31 15:29:02,207 "GET /accounts/login/img/team-1.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:29:02,211 "GET /accounts/login/img/carousel-1.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:29:02,856 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:29:02,863 Not Found: /accounts/login/img/carousel-1.jpg
+WARNING 2024-01-31 15:29:02,864 "GET /accounts/login/img/carousel-1.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:29:02,864 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:29:02,905 Not Found: /favicon.ico
+WARNING 2024-01-31 15:29:02,906 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 15:30:42,550 "GET /accounts/login/?next=/ HTTP/1.1" 200 38229
+WARNING 2024-01-31 15:30:42,682 Not Found: /accounts/login/img/team-4.jpg
+WARNING 2024-01-31 15:30:42,708 Not Found: /accounts/login/img/team-3.jpg
+WARNING 2024-01-31 15:30:42,715 Not Found: /accounts/login/img/team-1.jpg
+WARNING 2024-01-31 15:30:42,715 "GET /static/img/carousel-1.jpg HTTP/1.1" 404 1813
+WARNING 2024-01-31 15:30:42,722 Not Found: /accounts/login/img/team-2.jpg
+WARNING 2024-01-31 15:30:42,722 "GET /accounts/login/img/team-4.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:30:42,723 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:30:42,723 "GET /accounts/login/img/team-3.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:30:42,726 "GET /accounts/login/img/team-2.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:30:42,728 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:30:42,729 "GET /accounts/login/img/team-1.jpg HTTP/1.1" 404 7722
+INFO 2024-01-31 15:30:42,731 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:30:42,735 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:30:42,737 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:30:42,739 "GET /static/lnd/js/main.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:30:42,744 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:30:42,745 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 200 16953
+INFO 2024-01-31 15:30:42,753 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2024-01-31 15:30:42,774 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 200 164194
+INFO 2024-01-31 15:30:42,776 "GET /static/lnd/css/style.css HTTP/1.1" 304 0
+WARNING 2024-01-31 15:30:42,834 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:30:42,835 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+WARNING 2024-01-31 15:30:43,088 "GET /static/img/carousel-1.jpg HTTP/1.1" 404 1813
+WARNING 2024-01-31 15:30:43,101 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:30:43,103 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+INFO 2024-01-31 15:30:43,897 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:08,900 "GET /accounts/login/?next=/ HTTP/1.1" 200 38229
+INFO 2024-01-31 15:31:08,972 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:08,977 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:08,979 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:08,985 "GET /static/lnd/css/style.css HTTP/1.1" 304 0
+WARNING 2024-01-31 15:31:09,050 "GET /static/img/carousel-1.jpg HTTP/1.1" 404 1813
+WARNING 2024-01-31 15:31:09,057 Not Found: /accounts/login/img/team-1.jpg
+WARNING 2024-01-31 15:31:09,063 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:31:09,070 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:31:09,094 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+WARNING 2024-01-31 15:31:09,071 "GET /accounts/login/img/team-1.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:09,075 Not Found: /accounts/login/img/team-2.jpg
+INFO 2024-01-31 15:31:09,076 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 304 0
+WARNING 2024-01-31 15:31:09,071 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+INFO 2024-01-31 15:31:09,103 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 304 0
+WARNING 2024-01-31 15:31:09,096 Not Found: /accounts/login/img/team-4.jpg
+WARNING 2024-01-31 15:31:09,104 "GET /accounts/login/img/team-4.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:09,105 "GET /accounts/login/img/team-2.jpg HTTP/1.1" 404 7722
+INFO 2024-01-31 15:31:09,104 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:09,108 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:09,113 "GET /static/lnd/js/main.js HTTP/1.1" 304 0
+WARNING 2024-01-31 15:31:09,156 Not Found: /accounts/login/img/team-3.jpg
+WARNING 2024-01-31 15:31:09,157 "GET /accounts/login/img/team-3.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:09,413 "GET /static/img/carousel-1.jpg HTTP/1.1" 404 1813
+WARNING 2024-01-31 15:31:09,417 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:31:09,419 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+INFO 2024-01-31 15:31:10,361 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:31:21,894 "GET /accounts/login/?next=/ HTTP/1.1" 200 38233
+INFO 2024-01-31 15:31:21,988 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 15:31:21,992 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 15:31:22,001 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 15:31:22,010 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 200 164194
+INFO 2024-01-31 15:31:22,011 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 15:31:22,014 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 15:31:22,021 "GET /static/lnd/css/style.css HTTP/1.1" 200 7929
+INFO 2024-01-31 15:31:22,021 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2024-01-31 15:31:22,022 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 200 16953
+INFO 2024-01-31 15:31:22,022 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 15:31:22,032 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 15:31:22,033 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 15:31:22,034 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 15:31:22,048 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 15:31:22,049 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 15:31:22,051 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 15:31:22,052 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 200 8156
+INFO 2024-01-31 15:31:22,056 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 200 2302
+INFO 2024-01-31 15:31:22,062 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+INFO 2024-01-31 15:31:22,076 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2024-01-31 15:31:22,079 "GET /static/lnd/js/main.js HTTP/1.1" 200 2698
+INFO 2024-01-31 15:31:22,305 "GET /static/lnd/img/carousel-1.jpg HTTP/1.1" 200 63326
+INFO 2024-01-31 15:31:22,307 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+WARNING 2024-01-31 15:31:22,347 Not Found: /accounts/login/img/team-2.jpg
+WARNING 2024-01-31 15:31:22,353 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:31:22,389 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+WARNING 2024-01-31 15:31:22,370 "GET /accounts/login/img/team-2.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:22,376 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:31:22,399 Not Found: /accounts/login/img/team-1.jpg
+WARNING 2024-01-31 15:31:22,414 "GET /accounts/login/img/team-1.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:22,406 Not Found: /accounts/login/img/team-3.jpg
+WARNING 2024-01-31 15:31:22,415 "GET /accounts/login/img/team-3.jpg HTTP/1.1" 404 7722
+WARNING 2024-01-31 15:31:22,417 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+WARNING 2024-01-31 15:31:22,414 Not Found: /accounts/login/img/team-4.jpg
+WARNING 2024-01-31 15:31:22,418 "GET /accounts/login/img/team-4.jpg HTTP/1.1" 404 7722
+INFO 2024-01-31 15:31:22,626 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 15:31:22,629 "GET /static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 76612
+INFO 2024-01-31 15:31:23,146 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+WARNING 2024-01-31 15:31:24,166 Not Found: /favicon.ico
+WARNING 2024-01-31 15:31:24,169 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2024-01-31 15:31:26,916 Not Found: /accounts/login/img/carousel-2.jpg
+WARNING 2024-01-31 15:31:26,919 "GET /accounts/login/img/carousel-2.jpg HTTP/1.1" 404 7734
+INFO 2024-01-31 15:59:03,675 "GET /accounts/login/?next=/ HTTP/1.1" 200 38305
+INFO 2024-01-31 15:59:03,768 "GET /static/lnd/img/carousel-2.jpg HTTP/1.1" 200 57163
+INFO 2024-01-31 15:59:03,786 "GET /static/lnd/img/team-4.jpg HTTP/1.1" 200 27892
+INFO 2024-01-31 15:59:03,789 "GET /static/lnd/img/team-2.jpg HTTP/1.1" 200 16189
+INFO 2024-01-31 15:59:03,792 "GET /static/lnd/img/carousel-1.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,793 "GET /static/lnd/img/team-3.jpg HTTP/1.1" 200 32347
+INFO 2024-01-31 15:59:03,793 "GET /static/lnd/img/team-1.jpg HTTP/1.1" 200 19289
+INFO 2024-01-31 15:59:03,798 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,797 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,793 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+WARNING 2024-01-31 15:59:03,815 Not Found: /accounts/login/img/course-1.jpg
+INFO 2024-01-31 15:59:03,816 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 304 0
+WARNING 2024-01-31 15:59:03,816 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+INFO 2024-01-31 15:59:03,818 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,833 "GET /static/lnd/css/style.css HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,837 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,846 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,847 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,857 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,861 "GET /static/lnd/js/main.js HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:03,879 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+WARNING 2024-01-31 15:59:04,342 Not Found: /favicon.ico
+INFO 2024-01-31 15:59:05,035 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:37,946 "GET /accounts/login/?next=/ HTTP/1.1" 200 38315
+INFO 2024-01-31 15:59:39,198 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 15:59:50,618 "GET /accounts/login/?next=/ HTTP/1.1" 200 38305
+WARNING 2024-01-31 15:59:50,701 Not Found: /accounts/login/img/course-1.jpg
+WARNING 2024-01-31 15:59:50,704 "GET /accounts/login/img/course-1.jpg HTTP/1.1" 404 7728
+INFO 2024-01-31 15:59:51,732 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:00:50,997 "GET /accounts/login/?next=/ HTTP/1.1" 200 38402
+INFO 2024-01-31 16:00:52,299 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:00:56,020 "GET /accounts/login/?next=/ HTTP/1.1" 200 38402
+INFO 2024-01-31 16:00:57,187 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:01:48,652 "GET /accounts/login/?next=/ HTTP/1.1" 200 38429
+INFO 2024-01-31 16:01:50,060 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:01:53,610 "GET /accounts/login/?next=/ HTTP/1.1" 200 38429
+INFO 2024-01-31 16:03:27,367 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:27,476 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 16:03:27,478 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 16:03:27,481 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 16:03:27,486 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 16:03:27,488 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 16:03:27,491 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 200 16953
+INFO 2024-01-31 16:03:27,502 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2024-01-31 16:03:27,506 "GET /static/lnd/css/style.css HTTP/1.1" 200 7929
+INFO 2024-01-31 16:03:27,509 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 200 164194
+INFO 2024-01-31 16:03:27,513 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 16:03:27,517 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 16:03:27,519 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 16:03:27,521 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 16:03:27,534 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 16:03:27,536 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 16:03:27,538 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 16:03:27,540 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 200 8156
+INFO 2024-01-31 16:03:27,564 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 200 2302
+INFO 2024-01-31 16:03:27,567 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+INFO 2024-01-31 16:03:27,569 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2024-01-31 16:03:27,578 "GET /static/lnd/js/main.js HTTP/1.1" 200 2698
+INFO 2024-01-31 16:03:32,329 "GET /static/lnd/img/team-1.jpg HTTP/1.1" 200 19289
+INFO 2024-01-31 16:03:32,335 "GET /static/lnd/img/team-2.jpg HTTP/1.1" 200 16189
+INFO 2024-01-31 16:03:32,345 "GET /static/lnd/img/team-4.jpg HTTP/1.1" 200 27892
+INFO 2024-01-31 16:03:32,349 "GET /static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 76612
+INFO 2024-01-31 16:03:32,352 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+INFO 2024-01-31 16:03:32,355 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 16:03:32,356 "GET /static/lnd/img/team-3.jpg HTTP/1.1" 200 32347
+INFO 2024-01-31 16:03:32,365 "GET /static/lnd/img/carousel-1.jpg HTTP/1.1" 200 63326
+INFO 2024-01-31 16:03:32,370 "GET /static/lnd/img/carousel-2.jpg HTTP/1.1" 200 57163
+WARNING 2024-01-31 16:03:33,212 Not Found: /favicon.ico
+WARNING 2024-01-31 16:03:33,213 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 16:03:34,740 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:36,269 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:37,586 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:39,556 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:40,763 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:42,802 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:43,966 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:03:45,396 "GET /accounts/login/?next=/ HTTP/1.1" 200 38456
+INFO 2024-01-31 16:04:27,895 "GET /accounts/login/?next=/ HTTP/1.1" 200 38362
+INFO 2024-01-31 16:05:10,097 "GET /accounts/login/?next=/ HTTP/1.1" 200 38339
+INFO 2024-01-31 16:05:13,525 "GET /student/list HTTP/1.1" 302 0
+INFO 2024-01-31 16:05:13,551 "GET /accounts/login/?next=/student/list HTTP/1.1" 200 38351
+INFO 2024-01-31 16:05:19,397 "GET /finance/list/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:05:19,422 "GET /accounts/login/?next=/finance/list/ HTTP/1.1" 200 38352
+INFO 2024-01-31 16:05:23,941 "GET /accounts/login/?next=/student/list HTTP/1.1" 200 38351
+INFO 2024-01-31 16:05:52,066 "GET /accounts/login/?next=/student/list HTTP/1.1" 200 38447
+INFO 2024-01-31 16:05:52,188 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 16:05:52,195 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 16:05:52,199 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9106
+INFO 2024-01-31 16:05:52,199 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 16:05:52,205 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 200 16953
+INFO 2024-01-31 16:05:52,207 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2024-01-31 16:05:52,210 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 16:05:52,212 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 200 164194
+INFO 2024-01-31 16:05:52,228 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 16:05:52,229 "GET /static/lnd/css/style.css HTTP/1.1" 200 7929
+INFO 2024-01-31 16:05:52,234 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 16:05:52,234 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 16:05:52,241 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 16:05:52,250 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 16:05:52,252 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 16:05:52,254 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 16:05:52,269 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 200 8156
+INFO 2024-01-31 16:05:52,273 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 200 2302
+INFO 2024-01-31 16:05:52,280 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+INFO 2024-01-31 16:05:52,282 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2024-01-31 16:05:52,284 "GET /static/lnd/js/main.js HTTP/1.1" 200 2698
+INFO 2024-01-31 16:05:56,695 "GET /static/lnd/img/team-1.jpg HTTP/1.1" 200 19289
+INFO 2024-01-31 16:05:56,701 "GET /static/lnd/img/team-4.jpg HTTP/1.1" 200 27892
+INFO 2024-01-31 16:05:56,710 "GET /static/lnd/img/team-3.jpg HTTP/1.1" 200 32347
+INFO 2024-01-31 16:05:56,715 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-01-31 16:05:56,720 "GET /static/plugins/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 76612
+INFO 2024-01-31 16:05:56,733 "GET /static/lnd/img/carousel-2.jpg HTTP/1.1" 200 57163
+INFO 2024-01-31 16:05:56,734 "GET /static/lnd/img/team-2.jpg HTTP/1.1" 200 16189
+INFO 2024-01-31 16:05:56,749 "GET /static/lnd/img/carousel-1.jpg HTTP/1.1" 200 63326
+INFO 2024-01-31 16:05:56,757 "GET /static/dist/img/login.png HTTP/1.1" 200 38801
+WARNING 2024-01-31 16:05:57,504 Not Found: /favicon.ico
+WARNING 2024-01-31 16:05:57,504 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 16:06:01,006 "GET /accounts/login/?next=/ HTTP/1.1" 200 38435
+INFO 2024-01-31 16:06:07,894 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:06:07,923 "GET / HTTP/1.1" 200 8012
+INFO 2024-01-31 16:06:33,859 "GET / HTTP/1.1" 200 7976
+INFO 2024-01-31 16:06:36,698 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 16:06:39,534 "GET /finance/list/ HTTP/1.1" 200 9270
+INFO 2024-01-31 16:06:42,819 "GET /finance/3/detail/ HTTP/1.1" 200 9830
+INFO 2024-01-31 16:07:50,750 "GET /finance/3/detail/ HTTP/1.1" 200 9940
+WARNING 2024-01-31 16:07:51,240 Not Found: /favicon.ico
+INFO 2024-01-31 16:08:04,688 "GET /finance/3/detail/ HTTP/1.1" 200 9946
+INFO 2024-01-31 16:08:32,929 "GET /finance/3/detail/ HTTP/1.1" 200 9940
+INFO 2024-01-31 16:08:46,427 "GET /finance/3/detail/ HTTP/1.1" 200 9943
+INFO 2024-01-31 16:08:57,605 "GET /finance/3/detail/ HTTP/1.1" 200 9952
+INFO 2024-01-31 16:09:07,176 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 16:12:16,655 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:12:17,454 Watching for file changes with StatReloader
+INFO 2024-01-31 16:12:48,315 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:12:48,952 Watching for file changes with StatReloader
+INFO 2024-01-31 16:12:59,113 "GET /student/list HTTP/1.1" 200 8668
+WARNING 2024-01-31 16:12:59,552 Not Found: /favicon.ico
+INFO 2024-01-31 16:13:01,965 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 16:13:18,894 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:13:19,396 Watching for file changes with StatReloader
+INFO 2024-01-31 16:13:25,654 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:13:26,265 Watching for file changes with StatReloader
+INFO 2024-01-31 16:13:56,901 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:13:57,462 Watching for file changes with StatReloader
+INFO 2024-01-31 16:14:01,624 "GET /student/list HTTP/1.1" 200 8668
+INFO 2024-01-31 16:14:02,926 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+ERROR 2024-01-31 16:14:42,386 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 470, in parse
+    compile_func = self.tags[command]
+KeyError: 'print(student)'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loaders/base.py", line 29, in get_template
+    return Template(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loader_tags.py", line 278, in do_extends
+    nodelist = parser.parse()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 478, in parse
+    raise self.error(token, e)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/loader_tags.py", line 216, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 472, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/template/base.py", line 522, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 27: 'print(student)', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2024-01-31 16:14:42,389 "GET /student/list HTTP/1.1" 500 162703
+INFO 2024-01-31 16:16:26,001 "GET /student/list HTTP/1.1" 200 8457
+INFO 2024-01-31 16:16:26,086 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 16:16:27,000 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:16:30,857 "GET /student/list HTTP/1.1" 200 8457
+INFO 2024-01-31 16:16:31,800 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:16:41,686 "GET /student/list HTTP/1.1" 200 8458
+INFO 2024-01-31 16:16:42,587 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:16:46,126 "GET /student/list HTTP/1.1" 200 8457
+INFO 2024-01-31 16:16:47,346 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 304 0
+INFO 2024-01-31 16:17:30,320 "GET /student/list HTTP/1.1" 200 20
+INFO 2024-01-31 16:17:35,724 "GET /student/list HTTP/1.1" 200 20
+INFO 2024-01-31 16:17:58,323 "GET /student/list HTTP/1.1" 200 8688
+INFO 2024-01-31 16:18:35,224 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:18:35,794 Watching for file changes with StatReloader
+INFO 2024-01-31 16:19:26,076 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:19:26,551 Watching for file changes with StatReloader
+INFO 2024-01-31 16:19:28,889 "GET /student/list HTTP/1.1" 200 8688
+INFO 2024-01-31 16:19:33,101 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:19:33,605 Watching for file changes with StatReloader
+INFO 2024-01-31 16:19:43,121 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:19:43,727 Watching for file changes with StatReloader
+INFO 2024-01-31 16:20:01,501 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:20:02,015 Watching for file changes with StatReloader
+INFO 2024-01-31 16:20:06,422 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:20:06,989 Watching for file changes with StatReloader
+INFO 2024-01-31 16:20:10,613 "GET /student/list HTTP/1.1" 200 8688
+INFO 2024-01-31 16:22:55,671 "GET /student/list HTTP/1.1" 200 8665
+INFO 2024-01-31 16:23:17,073 "GET /student/list HTTP/1.1" 200 8665
+INFO 2024-01-31 16:24:04,930 "GET /student/list HTTP/1.1" 200 8686
+WARNING 2024-01-31 16:24:05,344 Not Found: /favicon.ico
+INFO 2024-01-31 16:25:11,062 /home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/students/views.py changed, reloading.
+INFO 2024-01-31 16:25:11,659 Watching for file changes with StatReloader
+INFO 2024-01-31 16:25:32,363 "GET /student/list HTTP/1.1" 200 10721
+INFO 2024-01-31 16:25:50,207 "GET /student/list HTTP/1.1" 200 10724
+WARNING 2024-01-31 16:25:50,621 Not Found: /favicon.ico
+INFO 2024-01-31 16:25:53,258 "GET /student/2/ HTTP/1.1" 200 9832
+INFO 2024-01-31 16:25:53,352 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 16:25:58,450 "GET /student/4/ HTTP/1.1" 200 9829
+INFO 2024-01-31 16:25:59,963 "GET /student/delete/4/ HTTP/1.1" 200 8315
+INFO 2024-01-31 16:26:01,142 "POST /student/delete/4/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:26:01,195 "GET /student/list HTTP/1.1" 200 10444
+INFO 2024-01-31 16:26:03,940 "GET /student/3/ HTTP/1.1" 200 9864
+INFO 2024-01-31 16:26:05,329 "GET /student/delete/3/ HTTP/1.1" 200 8316
+INFO 2024-01-31 16:26:06,452 "POST /student/delete/3/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:26:06,493 "GET /student/list HTTP/1.1" 200 10163
+INFO 2024-01-31 16:26:08,781 "GET /student/2/ HTTP/1.1" 200 9832
+INFO 2024-01-31 16:26:10,419 "GET /student/delete/2/ HTTP/1.1" 200 8315
+INFO 2024-01-31 16:26:11,598 "POST /student/delete/2/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:26:11,650 "GET /student/list HTTP/1.1" 200 9883
+INFO 2024-01-31 16:26:13,439 "GET /student/1/ HTTP/1.1" 200 9877
+WARNING 2024-01-31 16:26:13,563 Not Found: /media/students/passports/projectworlds.png
+WARNING 2024-01-31 16:26:13,564 "GET /media/students/passports/projectworlds.png HTTP/1.1" 404 6562
+INFO 2024-01-31 16:26:14,469 "GET /student/delete/1/ HTTP/1.1" 200 8314
+INFO 2024-01-31 16:26:15,684 "POST /student/delete/1/ HTTP/1.1" 302 0
+INFO 2024-01-31 16:26:15,722 "GET /student/list HTTP/1.1" 200 9604
+INFO 2024-01-31 16:26:19,104 "GET /staff/list/ HTTP/1.1" 200 8409
+INFO 2024-01-31 16:26:20,587 "GET /student/list HTTP/1.1" 200 9604
+ERROR 2024-01-31 16:32:25,105 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/corecode/middleware.py", line 9, in __call__
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:25,190 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 233, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/middleware.py", line 50, in process_response
+    if request.session.get_expire_at_browser_close():
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 325, in get_expire_at_browser_close
+    if self.get('_session_expiry') is None:
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 80, in get
+    return self._session.get(key, default)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 238, in _get_session
+    self._session_cache = self.load()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:25,194 "GET /student/list HTTP/1.1" 500 184687
+ERROR 2024-01-31 16:32:34,880 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/corecode/middleware.py", line 9, in __call__
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:34,952 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 233, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/middleware.py", line 50, in process_response
+    if request.session.get_expire_at_browser_close():
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 325, in get_expire_at_browser_close
+    if self.get('_session_expiry') is None:
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 80, in get
+    return self._session.get(key, default)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 238, in _get_session
+    self._session_cache = self.load()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:34,955 "GET / HTTP/1.1" 500 184405
+ERROR 2024-01-31 16:32:43,974 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/corecode/middleware.py", line 9, in __call__
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:44,040 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 233, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/middleware.py", line 50, in process_response
+    if request.session.get_expire_at_browser_close():
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 325, in get_expire_at_browser_close
+    if self.get('_session_expiry') is None:
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 80, in get
+    return self._session.get(key, default)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 238, in _get_session
+    self._session_cache = self.load()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:44,041 "GET / HTTP/1.1" 500 184545
+ERROR 2024-01-31 16:32:44,202 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/Django-project/Project/Django-School-Management-System/apps/corecode/middleware.py", line 9, in __call__
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:44,281 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 233, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+sqlite3.OperationalError: unable to open database file
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/middleware.py", line 50, in process_response
+    if request.session.get_expire_at_browser_close():
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 325, in get_expire_at_browser_close
+    if self.get('_session_expiry') is None:
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 80, in get
+    return self._session.get(key, default)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 238, in _get_session
+    self._session_cache = self.load()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1173, in execute_sql
+    cursor = self.connection.cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 259, in cursor
+    return self._cursor()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 235, in _cursor
+    self.ensure_connection()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 219, in ensure_connection
+    self.connect()
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/base/base.py", line 200, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/home/aromalnambiar/.local/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 209, in get_new_connection
+    conn = Database.connect(**conn_params)
+django.db.utils.OperationalError: unable to open database file
+ERROR 2024-01-31 16:32:44,283 "GET /favicon.ico HTTP/1.1" 500 184595
+INFO 2024-01-31 16:32:59,760 Watching for file changes with StatReloader
+INFO 2024-01-31 16:33:03,414 "GET / HTTP/1.1" 200 7976
+INFO 2024-01-31 16:33:06,350 "GET / HTTP/1.1" 200 7976
+INFO 2024-01-31 16:33:25,017 "GET / HTTP/1.1" 200 7956
+INFO 2024-01-31 16:33:25,061 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-01-31 16:33:25,070 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-01-31 16:33:25,075 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-01-31 16:33:25,078 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-01-31 16:33:25,076 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-01-31 16:33:25,082 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-01-31 16:33:25,083 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-01-31 16:33:25,083 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-01-31 16:33:25,089 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686622
+INFO 2024-01-31 16:33:25,094 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-01-31 16:33:25,097 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-01-31 16:33:25,100 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-01-31 16:33:25,129 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-01-31 16:33:25,268 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-01-31 16:33:25,269 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-01-31 16:33:25,618 Not Found: /favicon.ico
+WARNING 2024-01-31 16:33:25,618 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-01-31 17:17:34,602 "GET / HTTP/1.1" 200 7956
+INFO 2024-01-31 17:17:34,693 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:17:41,096 "GET /staff/list/ HTTP/1.1" 200 8389
+INFO 2024-01-31 17:17:43,401 "GET /student/list HTTP/1.1" 200 9584
+WARNING 2024-01-31 17:17:43,919 Not Found: /favicon.ico
+WARNING 2024-01-31 17:17:46,262 Not Found: /login/
+WARNING 2024-01-31 17:17:46,263 "GET /login/ HTTP/1.1" 404 6187
+INFO 2024-01-31 17:17:47,517 "GET /student/6/ HTTP/1.1" 200 9864
+INFO 2024-01-31 17:17:47,674 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-01-31 17:17:52,254 "GET /student/list HTTP/1.1" 200 9584
+INFO 2024-01-31 17:21:06,842 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-01-31 17:21:06,858 "GET / HTTP/1.1" 302 0
+INFO 2024-01-31 17:21:06,973 "GET /accounts/login/?next=/ HTTP/1.1" 200 38307
+INFO 2024-01-31 17:21:07,204 "GET /static/lnd/img/carousel-2.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,208 "GET /static/lnd/img/carousel-1.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,210 "GET /static/lnd/img/team-1.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,222 "GET /static/lnd/lib/animate/animate.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,229 "GET /static/lnd/img/team-2.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,230 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,231 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,233 "GET /static/lnd/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,242 "GET /static/lnd/img/team-4.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,252 "GET /static/lnd/img/team-3.jpg HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,262 "GET /static/lnd/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,267 "GET /static/lnd/lib/easing/easing.min.js HTTP/1.1" 200 2302
+INFO 2024-01-31 17:21:07,269 "GET /static/lnd/lib/wow/wow.min.js HTTP/1.1" 200 8156
+INFO 2024-01-31 17:21:07,270 "GET /static/lnd/css/style.css HTTP/1.1" 304 0
+INFO 2024-01-31 17:21:07,278 "GET /static/lnd/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+INFO 2024-01-31 17:21:07,280 "GET /static/lnd/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2024-01-31 17:21:07,291 "GET /static/lnd/js/main.js HTTP/1.1" 200 2698
+WARNING 2024-01-31 17:21:07,573 Not Found: /favicon.ico
